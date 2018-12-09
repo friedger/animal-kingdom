@@ -139,10 +139,10 @@ class Kingdom extends Component {
             {rulerAnimal ?
               <p><a href={`${EXPLORER_URL}/name/${username}`} target="_blank">{username}</a> is a {rulerAnimal.name} that rules over the {rulerTerritory.name}.</p>
               :
-              <p>{username} is an unknown animal that hails from an unknown land.</p>
+              <p>{username} is an unknown monster that hails from an unknown land.</p>
             }
             <p>
-            {mine ? <Link className="btn btn-primary" to="/me" role="button">Edit my animal</Link>
+            {mine ? <Link className="btn btn-primary" to="/me" role="button">Edit my monster</Link>
             : <a
               className='btn btn-primary'
               href={`${window.location.origin}/kingdom/${currentUsername}?add=${app}/kingdom/${username}`}
