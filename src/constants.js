@@ -45,4 +45,8 @@ export const OTHER_KINGDOMS = [
     app: 'http://localhost:3001',
     ruler: 'larz.id'
   },
+  {
+    app: 'https://animal-kingdom-1.firebaseapp.com',
+    ruler: 'friedger.id'
+  },
 ]
