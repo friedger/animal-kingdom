@@ -112,5 +112,17 @@ export const OTHER_KINGDOMS = [
   {
     app: 'https://animal-kingdom-1.firebaseapp.com',
     ruler: 'larry.id'
-  }
+  },
+  {
+    app: 'https://animal-kingdom-1.firebaseapp.com',
+    ruler: 'larry.blockstack'
+  },
+  {
+    app: 'https://animal-kingdom-1.firebaseapp.com',
+    ruler: 'friedger.id'
+  },
+  {
+    app: 'https://planet.friedger.de',
+    ruler: 'friedger.id'
+  },
 ]
