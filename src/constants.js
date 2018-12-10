@@ -45,4 +45,8 @@ export const OTHER_KINGDOMS = [
     app: 'http://localhost:3001',
     ruler: 'larz.id'
   },
+  {
+    app: 'https://planet.friedger.de,
+    ruler: 'openintents.id'
+  },
 ]
